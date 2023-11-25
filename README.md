@@ -1,3 +1,4 @@
+modify by jun
 # MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment
 
 Sidi Yang*, Tianhe Wu*, Shuwei Shi, Shanshan Lao, Yuan Gong, Mingdeng Cao, Jiahao Wang and Yujiu Yang
